@@ -106,10 +106,11 @@ sections:
         type: FeaturedItem
       - title: Networking
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Digitaliser et optimiser les processus et la rentabilité de votre
+          entreprise grâce à l’Intelligence Artificielle et au No Code (conseil
+          et développement de solutions)
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
