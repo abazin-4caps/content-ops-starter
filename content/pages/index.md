@@ -438,7 +438,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Téléphone
-          label: Name
+          label: Téléphone
           hideLabel: true
           placeholder: 06 06 06 06 06
           isRequired: true
