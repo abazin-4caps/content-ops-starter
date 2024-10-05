@@ -1,7 +1,7 @@
 ---
 title: Optimisation de parking
 slug: case-study-1
-date: '2022-01-02'
+date: '2022-08-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
