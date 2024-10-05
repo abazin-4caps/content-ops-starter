@@ -439,7 +439,7 @@ sections:
         - type: TextFormControl
           name: Téléphone
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: 06 06 06 06 06
           isRequired: true
           width: full
