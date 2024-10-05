@@ -80,10 +80,11 @@ sections:
               borderRadius: x-large
       - title: BIM
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Mettre en place une démarche BIM et DATA sur l'un de vos projets ou
+          dans votre entreprise (conseil BIM et DATA, AMO BIM et DATA, BIM
+          Management, Formation BIM)
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
