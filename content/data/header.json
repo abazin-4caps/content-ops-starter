@@ -28,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Missions",
+            "label": "Activités",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
