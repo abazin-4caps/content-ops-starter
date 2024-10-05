@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - title: BIM et DATA
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           Mettre en place une démarche BIM et DATA sur l'un de vos projets ou
           dans votre entreprise (conseil BIM et DATA, AMO BIM et DATA, BIM
