@@ -78,7 +78,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: BIM
+      - title: BIM et DATA
         subtitle: The Job Stuff
         text: >+
           Mettre en place une démarche BIM et DATA sur l'un de vos projets ou
