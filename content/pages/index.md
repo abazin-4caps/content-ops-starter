@@ -423,7 +423,7 @@ sections:
     media:
       fields:
         - name: Prénom NOM
-          label: Name
+          label: Prénom NOM
           hideLabel: true
           placeholder: Your name
           isRequired: true
