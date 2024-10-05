@@ -104,7 +104,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Networking
+      - title: IA et NoCode
         subtitle: Faster
         text: >+
           Digitaliser et optimiser les processus et la rentabilité de votre
