@@ -139,7 +139,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: activité
+      label: activités
       color: text-primary
       styles:
         self:
