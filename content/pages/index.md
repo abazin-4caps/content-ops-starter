@@ -422,7 +422,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       fields:
-        - name: Nom
+        - name: Prénom NOM
           label: Prénom NOM
           hideLabel: true
           placeholder: Your name
