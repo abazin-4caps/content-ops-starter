@@ -425,7 +425,7 @@ sections:
         - name: Prénom NOM
           label: Prénom NOM
           hideLabel: true
-          placeholder: Your name
+          placeholder: Prénom NOM
           isRequired: true
           width: full
           type: TextFormControl
