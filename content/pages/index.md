@@ -105,7 +105,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: IA et NoCode
-        subtitle: Faster
+        subtitle: ''
         text: >+
           Digitaliser et optimiser les processus et la rentabilité de votre
           entreprise grâce à l’Intelligence Artificielle et au No Code (conseil
