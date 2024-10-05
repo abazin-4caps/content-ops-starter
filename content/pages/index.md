@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Notre vision
-    text: "\"*Ma vision aujourd’hui est simple : nous sommes capables de faire mieux avec les technologies que nous avons à notre disposition. Et plus encore, nous sommes capables de le faire rapidement et à moindre coût !*\_\"\n\n"
+    text: "\"*Chez 4 CAPS notre vision est simple : nous sommes capables de faire mieux avec les technologies que nous avons à notre disposition. Et plus encore, nous sommes capables de le faire rapidement et à moindre coût !*\_\"\n"
     actions:
       - label: Nous contacter
         altText: ''
