@@ -440,7 +440,7 @@ sections:
           name: Téléphone
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: 06 06 06 06 06
           isRequired: true
           width: full
         - name: message
