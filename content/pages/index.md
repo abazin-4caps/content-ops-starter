@@ -25,7 +25,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 4 CAPS
+      label: Présentation
       color: text-primary
       type: Badge
     elementId: ''
