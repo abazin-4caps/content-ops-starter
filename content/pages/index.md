@@ -51,7 +51,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Optimisation
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           Optimiser les plans de vos projets immobiliers (parkings, logements,
           locaux vélos, ou tout autre type de plans)
