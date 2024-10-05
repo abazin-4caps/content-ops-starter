@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Devenez partenaire et profitez de notre savoir faire !
     items:
       - type: FeaturedItem
         title: Optimisation
