@@ -52,10 +52,10 @@ sections:
       - type: FeaturedItem
         title: Optimisation
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Optimiser les plans de vos projets immobiliers (parkings, logements,
+          locaux vélos, ou tout autre type de plans)
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
