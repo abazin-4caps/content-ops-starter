@@ -219,7 +219,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: NOS ACTUALITÉ
       color: text-dark
     subtitle: Ce que nos clients disent de nous
     items:
