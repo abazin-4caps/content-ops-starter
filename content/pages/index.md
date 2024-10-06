@@ -170,6 +170,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: e
   - subtitle: Ces entreprises nous font confiance
     images:
       - url: /images/empathy-logo.svg
