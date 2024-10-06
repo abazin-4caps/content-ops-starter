@@ -164,7 +164,7 @@ sections:
           placeholder: Votre message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
+      elementId: <form>
       styles:
         self:
           padding:
