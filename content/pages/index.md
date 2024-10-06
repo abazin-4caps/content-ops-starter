@@ -434,7 +434,7 @@ sections:
           name: Téléphone
           label: Téléphone
           hideLabel: true
-          placeholder: 06 12 34 56 78
+          placeholder: Téléphone
           isRequired: true
           width: full
         - name: message
