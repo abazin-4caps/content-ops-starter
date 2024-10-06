@@ -173,7 +173,7 @@ sections:
     subtitle: e
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: NOS ACTUALITÉ
       color: text-dark
   - subtitle: Ces entreprises nous font confiance
     images:
