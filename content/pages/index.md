@@ -169,7 +169,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: ''
+      text: NOS ACTUALITÉ
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
