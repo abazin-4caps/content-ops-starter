@@ -34,7 +34,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Devenez partenaire et profitez de notre savoir faire !
+    subtitle: Devenez partenaire et profitez de nos savoir faire !
     items:
       - type: FeaturedItem
         title: Optimisation
