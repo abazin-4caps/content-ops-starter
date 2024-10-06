@@ -18,34 +18,7 @@
         "type": "ImageBlock",
         "elementId": "LOGO"
     },
-    "primaryLinks": [
-        {
-            "label": "ACCUEIL",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "NOS EXPERTISES",
-            "altText": "Blog",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "NOS ACTUALITÉS",
-            "altText": "Careers page",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "type": "Button",
