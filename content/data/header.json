@@ -39,7 +39,7 @@
         {
             "label": "NOS ACTUALITÉS",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
