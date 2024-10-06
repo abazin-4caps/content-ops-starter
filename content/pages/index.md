@@ -170,7 +170,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    subtitle: e
+    subtitle: ''
     title:
       type: TitleBlock
       text: NOS ACTUALITÉ
