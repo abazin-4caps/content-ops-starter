@@ -426,7 +426,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: email
+          placeholder: Email
           isRequired: true
           width: full
           type: EmailFormControl
