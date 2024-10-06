@@ -129,68 +129,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: NOUS CONTACTER
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    media:
-      fields:
-        - name: Prénom NOM
-          label: Prénom NOM
-          hideLabel: true
-          placeholder: Prénom NOM
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: Email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - type: TextFormControl
-          name: Téléphone
-          label: Téléphone
-          hideLabel: true
-          placeholder: Téléphone
-          isRequired: true
-          width: full
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Votre message
-          width: full
-          type: TextareaFormControl
-      elementId: <form>
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Envoyer
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
