@@ -41,7 +41,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Activités
+      text: NOS EXPERTISES
       color: text-dark
       styles:
         self:
