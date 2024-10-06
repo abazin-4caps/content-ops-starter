@@ -217,7 +217,10 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - type: CarouselSection
-    title: null
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: Ce que nos clients disent de nous
     items:
       - title: >-
