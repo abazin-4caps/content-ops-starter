@@ -218,7 +218,7 @@ sections:
     type: ImageGallerySection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Ce que nos clients disent de nous
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
