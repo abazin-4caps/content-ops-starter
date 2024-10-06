@@ -215,7 +215,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: NOS ACTUALITÉ
+      text: ''
       color: text-dark
     subtitle: Ce que nos clients disent de nous
     items:
