@@ -21,7 +21,7 @@
     "primaryLinks": [
         {
             "label": "ACCUEIL",
-            "url": "/pricing",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,7 +30,7 @@
         {
             "label": "NOS EXPERTISES",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -39,7 +39,7 @@
         {
             "label": "NOS ACTUALITÉS",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -60,6 +60,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-left",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Header"
 }

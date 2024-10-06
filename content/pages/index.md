@@ -7,7 +7,7 @@ sections:
       text: Votre partenaire dans la conception de vos projets Immobilier
       color: text-dark
       type: TitleBlock
-    subtitle: Notre vision
+    subtitle: ''
     text: "\"*Chez 4 CAPS notre vision est simple : nous sommes capables de faire mieux avec les technologies que nous avons à notre disposition. Et plus encore, nous sommes capables de le faire rapidement et à moindre coût !*\_\"\n"
     actions:
       - label: Nous contacter
@@ -24,10 +24,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: Présentation
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -41,7 +37,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Activités
+      text: NOS EXPERTISES
       color: text-dark
       styles:
         self:
@@ -58,7 +54,7 @@ sections:
 
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -91,7 +87,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -117,7 +113,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -138,13 +134,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: activités
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -158,6 +147,40 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    subtitle: ''
+    title:
+      type: TitleBlock
+      text: NOS ACTUALITÉS
+      color: text-dark
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - subtitle: Ces entreprises nous font confiance
     images:
       - url: /images/empathy-logo.svg
@@ -189,38 +212,12 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: Ce que nos clients disent de nous
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
@@ -239,7 +236,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -411,15 +408,11 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: NOUS CONTACTER
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: ''
     media:
       fields:
         - name: Prénom NOM
@@ -429,10 +422,10 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
+        - name: Email
           label: Email
           hideLabel: true
-          placeholder: email
+          placeholder: Email
           isRequired: true
           width: full
           type: EmailFormControl
@@ -440,13 +433,13 @@ sections:
           name: Téléphone
           label: Téléphone
           hideLabel: true
-          placeholder: 06 12 34 56 78
+          placeholder: Téléphone
           isRequired: true
           width: full
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Votre message
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -464,14 +457,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Envoyer
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
