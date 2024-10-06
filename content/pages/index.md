@@ -171,6 +171,10 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: e
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - subtitle: Ces entreprises nous font confiance
     images:
       - url: /images/empathy-logo.svg
