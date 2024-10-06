@@ -19,19 +19,7 @@
         "elementId": "LOGO"
     },
     "primaryLinks": [],
-    "secondaryLinks": [
-        {
-            "type": "Button",
-            "label": "CONTACT",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
     "colors": "bg-neutral-fg-dark",
     "type": "Header"
