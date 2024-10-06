@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: "\"*Chez 4 CAPS notre vision est simple : nous sommes capables de faire mieux avec les technologies que nous avons à notre disposition. Et plus encore, nous sommes capables de le faire rapidement et à moindre coût !*\_\"\n"
-    actions:
-      - label: Nous contacter
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/FOND - 4 CAPS.png
       altText: Unblock your team boost your time to production preview
