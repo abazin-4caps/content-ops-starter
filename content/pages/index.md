@@ -115,16 +115,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Nous contacter
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
